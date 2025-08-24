@@ -3,14 +3,10 @@ import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.sql.*;
-
 import java.util.ArrayList;
-
 import java.util.List;
 import java.util.Scanner;
-
 import static java.sql.DriverManager.getConnection;
-
 public class EmployeeDAO {
 
     // Create
